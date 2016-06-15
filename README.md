@@ -9,4 +9,4 @@
  `git clone https://github.com/sunsongxp/yunti.git`
 
 * Run the command, need root access
- `./yunti`
+ `./yunti.sh`
